@@ -1,0 +1,42 @@
+C:\Users\admin\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\serg\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll.config
+C:\Users\admin\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\serg\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll
+C:\Users\admin\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\serg\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.pdb
+C:\Users\admin\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\serg\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csprojAssemblyReference.cache
+C:\Users\admin\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\serg\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csproj.CoreCompileInputs.cache
+C:\Users\admin\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\serg\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.dll
+C:\Users\admin\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\serg\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.pdb
+C:\#AIS\SOFT703 Web Applications Development\Assignment1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll.config
+C:\#AIS\SOFT703 Web Applications Development\Assignment1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll
+C:\#AIS\SOFT703 Web Applications Development\Assignment1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.pdb
+C:\#AIS\SOFT703 Web Applications Development\Assignment1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csprojAssemblyReference.cache
+C:\#AIS\SOFT703 Web Applications Development\Assignment1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csproj.CoreCompileInputs.cache
+C:\#AIS\SOFT703 Web Applications Development\Assignment1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.dll
+C:\#AIS\SOFT703 Web Applications Development\Assignment1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.pdb
+C:\Users\admin\Desktop\temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll.config
+C:\Users\admin\Desktop\temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll
+C:\Users\admin\Desktop\temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.pdb
+C:\Users\admin\Desktop\temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.dll
+C:\Users\admin\Desktop\temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.pdb
+E:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll.config
+E:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll
+E:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.pdb
+E:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csprojAssemblyReference.cache
+E:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csproj.CoreCompileInputs.cache
+E:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.dll
+E:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.pdb
+D:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll.config
+D:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll
+D:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.pdb
+D:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csprojAssemblyReference.cache
+D:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csproj.CoreCompileInputs.cache
+D:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.dll
+D:\webapp-ind-assignment-temp\web-app-dev-assignment-1\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.pdb
+C:\Users\admin\Desktop\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll.config
+C:\Users\admin\Desktop\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.dll
+C:\Users\admin\Desktop\webstudio.kiwi\webstudio.kiwi\bin\webstudio.kiwi.pdb
+C:\Users\admin\Desktop\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.dll
+C:\Users\admin\Desktop\webstudio.kiwi\webstudio.kiwi\obj\Debug\webstudio.kiwi.pdb

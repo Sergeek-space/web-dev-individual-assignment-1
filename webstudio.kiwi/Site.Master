@@ -1,0 +1,96 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="webstudio.kiwi.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>WebStudio Kiwi – Design, Development and Hosting Company</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Style/Main.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com"> <link href="https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap" rel="stylesheet">
+    </head>
+<body>
+  <form id="form1" runat="server">
+    <header class="header" id="header">
+        <table id="header-table">
+            <tr>
+                <td id="logo-td" rowspan="2"><asp:Image ID="logo" runat="server" ImageUrl="Images/logo.png" /></td>
+                <td>&nbsp</td>
+                <!-- <td><asp:Label ID="lblCompanyName" runat="server" Text="WebStudio.kiwi"></asp:Label></td> -->
+            </tr>
+            <tr>
+                <td><nav class="navbar"><table id="tblnav"><tr>
+                    <td><a href="Cms.aspx">CMS</a></td>
+                    <td><a href="Login.aspx">Register/Login</a></td>
+                    <td><div class="dropdown">
+                        <button class="dropbtn">Services</button>
+                        <div class="dropdown-content">
+                            <a href="Design.aspx">Web Design</a>
+                            <a href="Development.aspx">Web Development</a>
+                            <a href="Hosting.aspx">Web Hosting</a>
+                            <a href="Domains_registration.aspx">Domains Registration</a>
+                            <a href="Seo.aspx">Search Engine Optimisation</a>
+                        </div>
+                    </div></td>
+                    <td><a href="Default.aspx">Home</a></td></tr></table>
+                    
+                </nav></td>
+            </tr>
+        </table>
+        
+    </header>
+
+  
+    <main class="content">
+        <%
+            HttpCookie myCookie = Request.Cookies["Cookie1"];
+            if (myCookie != null)
+            {
+                if (myCookie.Values["cart"] != null)
+                {
+                    Response.Write("<div id='cart'>");
+                    Response.Write("Cart Content of the user ");
+                    Response.Write(myCookie.Values["userId"] + ":");
+                    Response.Write("<br>Added to the cart: ");
+                    Response.Write(myCookie.Values["cart"]);
+                    Response.Write("</div>");
+                }
+            }%>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+        </asp:ContentPlaceHolder>
+    </main>
+    
+    <hr id="header-hr">
+    <br />
+
+    <footer class="footer" id="footer">
+      <table id="ftr-table">
+
+            <tr>
+                <td><b>Business Hours:</b></td>
+                <td><b>Phone Number:</b></td>
+                <td><b>Email:</b></td>
+                <td><b>Address:</b></td>
+                <td><b>Follow us:</b></td>
+            </tr>
+
+            <tr>
+                <td class="ftr-td">Mon to Fri:<br /> 10 AM to 7 PM</td>
+                <td class="ftr-td"><a href="tel:+642041820586">+64(204)1820586</a></td>
+                <td class="ftr-td"><a href="mailto:info@webstudio.kiwi">info@webstudio.kiwi</a></td>
+                <td class="ftr-td"><a href="Contacts.aspx">28A Linwood Avenue, <br>Mount Albert, <br>Auckland 1025</a></td>
+                <td class="ftr-td"><a target="_blank" href="#" class="fa fa-facebook"></a>&nbsp;<a href="#"
+                        class="fa fa-youtube"></a>&nbsp;<a href="#" class="fa fa-instagram"></a></td>
+            </tr>
+
+
+        </table>
+  </footer>
+
+  </form>
+</body>
+</html>

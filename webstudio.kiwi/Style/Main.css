@@ -1,0 +1,288 @@
+﻿/*body {
+    width: 97%;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+#header {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+#logo {
+    float: left;
+    text-align: center;
+    padding: 20px;
+    border: 5px solid dodgerblue;
+    height: 45px;
+    width: auto;
+}
+
+#header-table {
+    width: 100%;
+}
+
+#header-table td {
+    vertical-align: bottom;
+}
+
+#logo-td {
+    width: 60px;
+    vertical-align: bottom;
+}
+
+/* dropdown navbar block */
+
+.navbar {
+    overflow: hidden;
+    background-color: dodgerblue;
+    
+}
+
+    .navbar a {
+        
+        font-size: 16px;
+        color: white;
+        text-decoration: none;
+    }
+
+.dropdown {
+    
+    overflow: hidden;
+}
+
+    .dropdown .dropbtn {
+        border: none;
+        color: white;
+        font-size: inherit;
+        background-color: inherit;
+        font-family: inherit;
+        text-align: center;
+        width: 100%;
+    }
+
+    .navbar a:hover, .dropdown:hover .dropbtn {
+        background-color: dodgerblue;
+        color: black;
+    }
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: dodgerblue;
+    width: 150px;
+    /*min-width: 160px;*/
+    box-shadow: 9px 14px 6px 0px lightgrey;
+    /*z-index: 1;
+    */
+}
+
+    .dropdown-content a {
+        color: white;
+        padding: 12px; /*16px;*/
+        text-decoration: none;
+        display: block;
+        text-align: left !important;
+    }
+
+        .dropdown-content a:hover {
+            color: black;
+            background-color: none;
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+#tblnav {
+    width: 100%;
+    
+}
+#tblnav tr td {
+    padding: 10px 0;
+    width: 150px;
+    float: right;
+    border-left: 3px solid white;
+    display: block;
+    
+}
+#tblnav tr td a {
+    /*width:100%;*/
+    text-align:center;
+    display: block;
+    
+}
+
+/* end of dropdown navbar block */
+
+/* content */
+
+.content {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: block;
+    background-color: none;
+}
+
+.lblHeader1 {
+    display: block;
+    margin: 25px 0px;
+    font-family: 'Cabin Sketch', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    color: dodgerblue;
+}
+
+#tblHello {
+    display: block;
+    font-size: 20px;
+    line-height: 0.7cm;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tblHello td {
+    width:50%;
+    padding:20px;
+}
+#imgHelloContainer {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#imgHello {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prdList {
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgPrdList {
+    padding: 20px;
+}
+
+.prdTitleLabel {
+    font-weight: bold;
+    font-size: 18px;
+    color: dodgerblue;
+}
+
+.prdDescriptionLabel {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.btnViewMore {
+    color: white;
+    background-color: #333;
+    padding: 11px 18px;
+    border: none;
+    font-size: 14px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.btnViewMore:hover {
+    background-color: #f26424;
+}
+
+.WebDevDataList1 {
+    font-size: 20px;
+}
+
+.lblWarning {
+    display: block;
+    margin-bottom: 20px;
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.borderedBlock {
+    display: block;
+    width: 40%;
+    border: none;
+    margin: 0px 0px 20px 20px;
+}
+
+.WebDesignDetailsView1 {
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+}
+
+.centered {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#cart {
+    display: block;
+    width: auto;
+    font-size: 20px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+/* end of content*/
+/* footer */
+#ftr-table {
+    width: 99%;
+    margin-left: 10px;
+}
+
+#ftr-td {
+    vertical-align: top;
+    padding-top: 5px;
+}
+
+.fa {
+    padding: 20px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+    .fa:hover {
+        opacity: 0.6;
+    }
+
+.fa-facebook {
+    background: #4160a5;
+    color: white;
+}
+
+.fa-youtube {
+    background: #ff0000;
+    color: white;
+}
+
+.fa-instagram {
+    background: #156096;
+    color: white;
+}
+
+/* end of footer */
+
+/* miscellaneous */
+
+#header-hr {
+    width: 100%;
+    border: none;
+    background-color: dodgerblue;
+    height: 5px;
+    /*padding: 3px;
+    box-shadow: 3px 7px 10px #696969;*/
+}
